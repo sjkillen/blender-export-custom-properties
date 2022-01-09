@@ -1,4 +1,5 @@
 # Blender Custom Properties Exporter
+## [Download .zip](https://github.com/sjkillen/blender-export-custom-properties/releases/download/0.01/export-scene-custom-props-blender-addon.zip)
 <a href='https://ko-fi.com/I2I57UQ7M' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
