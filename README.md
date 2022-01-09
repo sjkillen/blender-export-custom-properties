@@ -4,6 +4,36 @@
 
 Export objects' custom properties as a JSON file
 
+## Example
+
+![Cubert](./img/cubert.png)
+![export location](./img/location.png)
+
+```json
+[
+    {
+        "type": "Scene",
+        "name": "Scene",
+        "data": [
+            {
+                "type": "Object",
+                "name": "Cube",
+                "data": [
+                    [
+                        "age",
+                        "0.1"
+                    ],
+                    [
+                        "name",
+                        "Cubert"
+                    ]
+                ]
+            }
+        ]
+    }
+]
+```
+
 # Limitations
 - Only exports things found in scene.objects
 - Data is always converted to a string
