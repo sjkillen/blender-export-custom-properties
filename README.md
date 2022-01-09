@@ -1,4 +1,4 @@
-# Blender Custom Property Exporter
+# Blender Custom Properties Exporter
 Export objects' custom properties as a JSON file
 
 # Limitations
